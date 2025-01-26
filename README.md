@@ -84,6 +84,10 @@ Hover over the paragraph to see the effect on the About page header!
 
 ## You built this with Glitch!
 
+##Contribution Contributions are always welcome! Feel free to fork this repository, make your changes, and submit a pull request. For major changes, please open an issue first to discuss what you'd like to change.
+
+##License This project is licensed under the MIT License - see the LICENSE.md file for details.
+
 [Glitch](https://glitch.com) is a friendly community where millions of people come together to build web apps and websites.
 
 - Want more details about React on Glitch? We've got a [Help Center article](https://help.glitch.com/kb/article/112) for you.
